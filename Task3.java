@@ -1,6 +1,6 @@
 package com.company;
 
-public class Third {
+public class Task3 {
     public static void main(String[] args) {
         int a = 1;
         int y = 1;

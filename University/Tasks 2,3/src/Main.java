@@ -1,4 +1,4 @@
-package com.company;
+
 
 import javax.annotation.processing.FilerException;
 import java.io.*;
